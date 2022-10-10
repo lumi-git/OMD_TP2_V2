@@ -1,0 +1,10 @@
+Use the menu bar 'edit' to copy , cut , past , undo , redo.
+
+Use the menu file to save the current file , have a new file , open a file.
+
+Look at the console to see the actions performed.
+
+click on the buttons "set borne a " and "set borne b" to set
+the selection born at the current pos of the cursor in the textBox.
+
+Use the insert button to insert whatever there is in the textBox beneath
